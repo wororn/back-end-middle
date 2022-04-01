@@ -6,3 +6,7 @@ Terdapat tiga proyek back end middle
 sudah lulus uji
 
 bila ingin menggunakan proyek ini diubah penamaannya ya
+
+dicoding
+
+Belajar Fundamental Aplikasi Back End
